@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Alpine_Sky_House_v1._0._0</RootNamespace>
+  </PropertyGroup>
+
+
+
+</Project>
